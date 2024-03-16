@@ -11,4 +11,4 @@ The Boids program simulates the movement of individuals, often represented as bi
 
 ### &emsp;Cohesion
 
-The cohesion rule accounts for the grouping of birds. Each bird is initialized with a random position, displacement, and velocity. Within a given "cohesionRadius," the birds travel towards each other; the birds look at every other bird within the given radius, take the average position of those birds, and change its trajectory to accelerate towards the average position. 
+&emsp;&ensp;The cohesion rule accounts for the grouping of birds. Each bird is initialized with a random position, displacement, and velocity. Within a given "cohesionRadius," the birds travel towards each other; the birds look at every other bird within the given radius, take the average position of those birds, and change its trajectory to accelerate towards the average position. 
