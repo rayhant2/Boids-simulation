@@ -9,6 +9,9 @@ Boids is an artifical life program with a huge presence within computer graphics
 The Boids program simulates the movement of individuals, often represented as birds. Each individual, or "boid," follows a set of simple rules that results in emergent behaviors;
 <br>
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 ### &emsp;Cohesion
 
 > The cohesion rule accounts for the grouping of birds. Each bird is initialized with a random position, displacement, and velocity. Within a given ```cohesionRadius```, the birds travel towards each other; the birds look at every other bird within the given radius, take the average position of those birds, and change its trajectory to accelerate towards the average position. 
