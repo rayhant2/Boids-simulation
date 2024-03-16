@@ -8,7 +8,7 @@ Boids is an artifical life program with a huge presence within computer graphics
 
 The Boids program simulates the movement of individuals, often represented as birds. Each individual, or "boid," follows a set of simple rules that results in emergent behaviors;
 
-### Cohesion
+### &emsp;Cohesion
 
 
 
